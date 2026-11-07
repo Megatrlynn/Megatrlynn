@@ -105,6 +105,11 @@ telemetry:
 | <b><a href="https://github.com/Megatrlynn/MindHaven">MindHaven</a></b> | ![Public](https://img.shields.io/badge/PUBLIC-10B981?style=flat-square&logoColor=white) | Wellness web application with responsive user experience | `TypeScript` |
 | <b><a href="https://github.com/Megatrlynn/coffeetrace">coffeetrace</a></b> | ![Private](https://img.shields.io/badge/PRIVATE-6366F1?style=flat-square&logoColor=white) | Supply chain traceability engine with precision data flows | `TypeScript` |
 | <b><a href="https://github.com/Megatrlynn/el-bill">el-bill</a></b> & <b><a href="https://github.com/Megatrlynn/fallback">fallback</a></b> | ![Public](https://img.shields.io/badge/PUBLIC-10B981?style=flat-square&logoColor=white) | Dynamic client utilities and high-reliability fallback engines | `JavaScript` |
+| <b><a href="https://github.com/Megatrlynn/StudentAttendanceManagementData">StudentAttendanceManagementData</a></b> | ![Public](https://img.shields.io/badge/PUBLIC-10B981?style=flat-square&logoColor=white) | Comprehensive institutional attendance telemetry & record management | `TypeScript` |
+| <b><a href="https://github.com/Megatrlynn/student_attendance">student_attendance</a></b> | ![Public](https://img.shields.io/badge/PUBLIC-10B981?style=flat-square&logoColor=white) | Real-time student attendance tracking and verification system | `JavaScript` |
+| <b><a href="https://github.com/Megatrlynn/ussd_application">ussd_application</a></b> & <b><a href="https://github.com/Megatrlynn/forussd">forussd</a></b> | ![Public](https://img.shields.io/badge/PUBLIC-10B981?style=flat-square&logoColor=white) | High-availability telecom USSD gateway & interactive session logic | `JavaScript` `PHP` |
+| <b><a href="https://github.com/Megatrlynn/Bohemian">Bohemian</a></b> | ![Public](https://img.shields.io/badge/PUBLIC-10B981?style=flat-square&logoColor=white) | Dynamic web application architecture and interactive components | `JavaScript` |
+| <b><a href="https://github.com/Megatrlynn/pipeline">pipeline</a></b> & <b><a href="https://github.com/Megatrlynn/node-web-app">node-web-app</a></b> | ![Public](https://img.shields.io/badge/PUBLIC-10B981?style=flat-square&logoColor=white) | Containerized deployment workflows and cloud microservices | `Docker` `Node.js` |
 
 </details>
 
@@ -132,6 +137,11 @@ telemetry:
 | <b><a href="https://github.com/Megatrlynn/randomizer">randomizer</a></b> | ![Public](https://img.shields.io/badge/PUBLIC-10B981?style=flat-square&logoColor=white) | Algorithmic randomization and statistical sampling module | `JavaScript` |
 
 </details>
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/Megatrlynn?tab=repositories"><img src="https://img.shields.io/badge/ARCHIVES-EXPLORE%20ALL%2037%2B%20REPOSITORIES-00d2ff?style=for-the-badge&logo=github&logoColor=white" alt="Explore All Repositories" /></a>
+</div>
 
 ---
 
