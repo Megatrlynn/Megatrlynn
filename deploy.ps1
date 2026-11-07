@@ -1,4 +1,4 @@
-# deploy.ps1 - Automated Deployment Script for Megatrlynn GitHub Profile README
+﻿# deploy.ps1 - Automated Deployment Script for Megatrlynn GitHub Profile README
 param (
     [string]$CommitMessage = "feat: launch futuristic cyber welcome profile README & telemetry"
 )
@@ -17,27 +17,40 @@ if (-not (Get-Command git -ErrorAction SilentlyContinue)) {
 if (-not (Test-Path ".git")) {
     Write-Host "[+] Initializing new Git repository..." -ForegroundColor Yellow
     git init -b main
-    git remote add origin https://github.com/Megatrlynn/Megatrlynn.git
 } else {
     Write-Host "[+] Existing git repository found." -ForegroundColor Yellow
 }
 
+# Ensure the branch is explicitly named 'main'
+git branch -M main
+
+# Ensure remote origin is configured
+$remoteUrl = "https://github.com/Megatrlynn/Megatrlynn.git"
+$existingOrigin = git remote get-url origin 2>$null
+if (-not $existingOrigin) {
+    Write-Host "[+] Setting remote origin to $remoteUrl..." -ForegroundColor Yellow
+    git remote add origin $remoteUrl
+} elseif ($existingOrigin -ne $remoteUrl) {
+    Write-Host "[+] Updating remote origin to $remoteUrl..." -ForegroundColor Yellow
+    git remote set-url origin $remoteUrl
+}
+
 # Stage all files
-Write-Host "[+] Staging files (README.md, .github/workflows)..." -ForegroundColor Yellow
+Write-Host "[+] Staging files (README.md, .github/workflows, assets)..." -ForegroundColor Yellow
 git add .
 
-# Commit changes
-Write-Host "[+] Committing changes..." -ForegroundColor Yellow
-git commit -m "$CommitMessage"
+# Commit changes if there are staged changes
+$status = git status --porcelain
+if ($status) {
+    Write-Host "[+] Committing changes..." -ForegroundColor Yellow
+    git commit -m "$CommitMessage"
+} else {
+    Write-Host "[+] Working tree clean, nothing new to commit." -ForegroundColor Green
+}
 
 # Push instructions
 Write-Host ""
-Write-Host "To push your changes to GitHub, execute:" -ForegroundColor Green
-Write-Host "  git push -u origin main" -ForegroundColor White
-Write-Host ""
-Write-Host "Would you like to attempt pushing to origin main right now? (y/n)" -ForegroundColor Cyan
-$response = Read-Host
-if ($response -eq 'y' -or $response -eq 'Y') {
-    git push -u origin main
-}
+Write-Host "Current branch: main -> Origin: $remoteUrl" -ForegroundColor Cyan
+Write-Host "Ready to push. Attempting push to origin main..." -ForegroundColor Green
 
+git push -u origin main
