@@ -28,7 +28,7 @@
 
 ---
 
-### 🛰️ System Telemetry & Mission Control
+### System Telemetry & Mission Control
 
 ```yaml
 identity:
@@ -45,7 +45,7 @@ telemetry:
 
 ---
 
-### ⚡ Tech Arsenal & Weaponry
+### Tech Arsenal & Weaponry
 
 <div align="center">
   <!-- Interactive Skill Icons Grid -->
@@ -61,7 +61,7 @@ telemetry:
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h4>🌐 Frontend & Interface Layer</h4>
+      <h4>Frontend & Interface Layer</h4>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
@@ -70,7 +70,7 @@ telemetry:
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>⚙️ Backend, AI & Mobile Core</h4>
+      <h4>Backend, AI & Mobile Core</h4>
       <p>
         <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -81,14 +81,14 @@ telemetry:
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h4>🔬 Hardware, Embedded & IoT</h4>
+      <h4>Hardware, Embedded & IoT</h4>
       <p>
         <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white" alt="Arduino" />
         <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white" alt="Raspberry Pi" />
       </p>
     </td>
     <td width="50%" valign="top">
-      <h4>🛠️ Tooling & Infrastructure</h4>
+      <h4>Tooling & Infrastructure</h4>
       <p>
         <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
         <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
@@ -99,12 +99,12 @@ telemetry:
 
 ---
 
-### 🚀 Featured Deployments & Projects
+### Featured Deployments & Projects
 
 > *Click any section below to toggle and inspect mission archives.*
 
 <details open>
-  <summary><b>🌐 Web & Full-Stack Systems</b></summary>
+  <summary><b>Web & Full-Stack Systems</b></summary>
   <br/>
 
 | Project | Visibility | Description | Tech Stack |
@@ -119,7 +119,7 @@ telemetry:
 </details>
 
 <details open>
-  <summary><b>📱 Mobile & Android Engineering</b></summary>
+  <summary><b>Mobile & Android Engineering</b></summary>
   <br/>
 
 | Project | Visibility | Description | Tech Stack |
@@ -129,7 +129,7 @@ telemetry:
 </details>
 
 <details open>
-  <summary><b>🧠 AI, Hardware & Backend Telemetry</b></summary>
+  <summary><b>AI, Hardware & Backend Telemetry</b></summary>
   <br/>
 
 | Project | Visibility | Description | Tech Stack |
@@ -145,7 +145,7 @@ telemetry:
 
 ---
 
-### 📊 GitHub Telemetry & Insights
+### GitHub Telemetry & Insights
 
 <div align="center">
 
@@ -178,7 +178,7 @@ telemetry:
 
 ---
 
-### 🌐 Neural Uplink // Let's Connect
+### Neural Uplink // Let's Connect
 
 <div align="center">
 

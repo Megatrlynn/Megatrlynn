@@ -1,4 +1,4 @@
-﻿# deploy.ps1 - Automated Deployment Script for Megatrlynn GitHub Profile README
+# deploy.ps1 - Automated Deployment Script for Megatrlynn GitHub Profile README
 param (
     [string]$CommitMessage = "feat: launch futuristic cyber welcome profile README & telemetry"
 )
