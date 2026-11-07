@@ -1,27 +1,19 @@
 <div align="center">
 
   <!-- Futuristic Animated Dynamic Banner -->
-  <a href="https://github.com/Megatrlynn">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,25:161b22,50:0f2744,75:0052cc,100:00d2ff&height=230&section=header&text=TERACHAD%20//%20MEGATRLYNN&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Multi-Stack%20Developer%20%7C%20Embedded%20Systems%20Engineer%20%7C%20Tech%20Enthusiast&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" />
-  </a>
+  <a href="https://github.com/Megatrlynn"><img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0:0d1117,25:161b22,50:0f2744,75:0052cc,100:00d2ff&height=230&section=header&text=TERACHAD%20//%20MEGATRLYNN&fontSize=42&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Multi-Stack%20Developer%20%7C%20Embedded%20Systems%20Engineer%20%7C%20Tech%20Enthusiast&descFontSize=16&descAlignY=62&descAlign=50" width="100%" alt="Header Banner" /></a>
 
   <!-- Animated Real-Time Typing Subtitle -->
   <p align="center">
-    <a href="https://github.com/Megatrlynn">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&random=false&width=650&height=45&lines=%E2%9A%A1+Engineering+Scalable+Full-Stack+Platforms;%F0%9F%A7%A0+Architecting+Intelligent+AI+%26+Backend+Pipelines;%F0%9F%94%A7+Bridging+Hardware+%26+Embedded+IoT+Systems;%F0%9F%9A%80+Building+The+Future+of+Interactive+Tech" alt="Typing SVG" />
-    </a>
+    <a href="https://github.com/Megatrlynn"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=00F5FF&center=true&vCenter=true&random=false&width=650&height=45&lines=%E2%9A%A1+Engineering+Scalable+Full-Stack+Platforms;%F0%9F%A7%A0+Architecting+Intelligent+AI+%26+Backend+Pipelines;%F0%9F%94%A7+Bridging+Hardware+%26+Embedded+IoT+Systems;%F0%9F%9A%80+Building+The+Future+of+Interactive+Tech" alt="Typing SVG" /></a>
   </p>
 
   <!-- Profile Metrics & Telemetry Badges -->
   <p align="center">
-    <a href="https://github.com/Megatrlynn">
-      <img src="https://komarev.com/ghpvc/?username=Megatrlynn&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" />
-    </a>
+    <a href="https://github.com/Megatrlynn"><img src="https://komarev.com/ghpvc/?username=Megatrlynn&label=PROFILE%20VIEWS&color=00d2ff&style=for-the-badge&logo=eye&logoColor=white" alt="Profile Views" /></a>
     <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00f5ff?style=for-the-badge&logo=statuspage&logoColor=white" alt="Status" />
     <img src="https://img.shields.io/badge/FOCUS-FULLSTACK%20%2B%20EMBEDDED-7928CA?style=for-the-badge&logo=target&logoColor=white" alt="Focus" />
-    <a href="https://portfolio.titans.studio">
-      <img src="https://img.shields.io/badge/PORTFOLIO-TITANS.STUDIO-ff007f?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" />
-    </a>
+    <a href="https://portfolio.titans.studio"><img src="https://img.shields.io/badge/PORTFOLIO-TITANS.STUDIO-ff007f?style=for-the-badge&logo=safari&logoColor=white" alt="Portfolio" /></a>
   </p>
 
 </div>
@@ -50,9 +42,7 @@ telemetry:
 <div align="center">
   <!-- Interactive Skill Icons Grid -->
   <p>
-    <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=ts,js,py,kotlin,java,react,tailwind,nodejs,arduino,raspberrypi,git,linux&theme=dark" alt="Skill Icons" />
-    </a>
+    <a href="https://skillicons.dev"><img src="https://skillicons.dev/icons?i=ts,js,py,kotlin,java,react,tailwind,nodejs,arduino,raspberrypi,git,linux&theme=dark" alt="Skill Icons" /></a>
   </p>
 </div>
 
@@ -151,20 +141,12 @@ telemetry:
 
   <!-- Floating Stats HUD Cards (Seamless Inline Grid) -->
   <p align="center">
-    <a href="https://github.com/Megatrlynn">
-      <img height="180" src="https://github-stats-extended.vercel.app/api?username=Megatrlynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00d2ff&text_color=c9d1d9" alt="Megatrlynn's GitHub Stats" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://github.com/Megatrlynn">
-      <img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Megatrlynn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" alt="Top Languages" />
-    </a>
+    <a href="https://github.com/Megatrlynn"><img height="180" src="https://github-stats-extended.vercel.app/api?username=Megatrlynn&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&icon_color=00d2ff&text_color=c9d1d9" alt="Megatrlynn's GitHub Stats" /></a>&nbsp;&nbsp;<a href="https://github.com/Megatrlynn"><img height="180" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Megatrlynn&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f5ff&text_color=c9d1d9" alt="Top Languages" /></a>
   </p>
 
   <!-- Streak Telemetry -->
   <p align="center">
-    <a href="https://github.com/Megatrlynn">
-      <img src="https://streak-stats.demolab.com/?user=Megatrlynn&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff007f&currStreakLabel=00d2ff" alt="GitHub Streak" />
-    </a>
+    <a href="https://github.com/Megatrlynn"><img src="https://streak-stats.demolab.com/?user=Megatrlynn&theme=tokyonight&hide_border=true&background=0d1117&ring=00f5ff&fire=ff007f&currStreakLabel=00d2ff" alt="GitHub Streak" /></a>
   </p>
 
   <!-- Contribution Matrix Snake Animation -->
@@ -187,13 +169,7 @@ telemetry:
   </p>
 
   <p align="center">
-    <a href="https://github.com/Megatrlynn" target="_blank">
-      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-    </a>
-    &nbsp;&nbsp;
-    <a href="https://portfolio.titans.studio" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-titans.studio-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-    </a>
+    <a href="https://github.com/Megatrlynn" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;<a href="https://portfolio.titans.studio" target="_blank"><img src="https://img.shields.io/badge/Portfolio-titans.studio-00d2ff?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
   </p>
 
   <!-- Futuristic Cyber Wave Footer -->
